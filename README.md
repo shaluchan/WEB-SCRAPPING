@@ -23,5 +23,13 @@ Requirements
     Jupyter Notebook
     BeautifulSoup
     requests
+3.Run the notebooks in the following order:
 
+    1_fetching_job_links.ipynb
+    2_jobs_scrapping.ipynb
+
+
+After running 2_jobs_scrapping.ipynb, you can access the fetched data either by viewing the output in the notebook or by locating the saved data files in the repository directory.
+
+Follow the instructions provided in each notebook to execute the scraping process.
 
